@@ -1,8 +1,8 @@
 # Olympics Data Analysis Web App
 
-![Project Image 1](image1.png)
-![Project Image 2](image2.png)
-![Project Image 3](image3.png)
+![Olympics-Data-Analysis](pic1.png)
+![Olympics-Data-Analysis](pic2.png)
+![Olympics-Data-Analysis](olympics.png)
 
 This web application performs data analysis on Olympic Games data, providing insights and visualizations at various levels.
 
